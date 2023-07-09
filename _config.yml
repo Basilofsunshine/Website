@@ -22,10 +22,10 @@ title: Basil's House
 email: basilofsunshine@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Hi! Work in Progress
-baseurl: "/websitetest" # the subpath of your site, e.g. /blog
-url: "https://lucasgoldfein.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/Website" # the subpath of your site, e.g. /blog
+url: "https://basilofsunshine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: linkofsunshine
-github_username:  lucasgoldfein
+github_username:  basilofsunshine
 
 # Build settings
 theme: minima
